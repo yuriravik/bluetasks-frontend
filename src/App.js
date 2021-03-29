@@ -5,10 +5,7 @@ import TaskForm from './components/TaskForm';
 import TaskListTable from './components/TaskListTable';
 
 class App extends Component{
-  //constructor(props){
-    //super(props)
-  //}
-
+  
   render() {
     return (
       <BrowserRouter>
