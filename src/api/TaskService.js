@@ -1,9 +1,7 @@
 class TaskService {
     constructor() {
         this.tasks = [
-            { id: 1, description: "tarefa 1", whenToDo: "2030-05-01", done: false },
-            { id: 2, description: "tarefa 2", whenToDo: "2030-05-02", done: true },
-            { id: 3, description: "tarefa 3", whenToDo: "2030-05-03", done: false }
+            
 
         ]
     }
